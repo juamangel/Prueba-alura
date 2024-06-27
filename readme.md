@@ -2,4 +2,5 @@
 - Estado del proyecto: En construcción.
 
 Para ejecutar el app debes instalar 
+
 ---npm install react---
