@@ -4,3 +4,5 @@
 Para ejecutar el app debes instalar 
 
 ---npm install react---
+
+Sistema de registro No 2
